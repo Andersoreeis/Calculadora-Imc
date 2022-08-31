@@ -10,9 +10,9 @@ public class AppaAcademia {
 		// TODO Auto-generated method stub
 
 		Frame tela = new Frame();
-		tela.titulo = "Calculadora IMC";
-		tela.altura = 800;
-		tela.largura = 800;
+		tela.titulo = " Calculadora IMC";
+		tela.altura = 580;
+		tela.largura = 400;
 		tela.criarTela();
 
 		Clientes maria = new Clientes();
