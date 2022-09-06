@@ -14,6 +14,7 @@ public class AppaAcademia {
 		tela.altura = 580;
 		tela.largura = 400;
 		tela.criarTela();
+	
 
 		Clientes maria = new Clientes();
 		maria.nome = "Maria Antonieta";
